@@ -1,6 +1,6 @@
 # flower sales site html css projesi
 ## Screen
-[](unknown_2023.05.18-00.22.gif)
+![](unknown_2023.05.18-00.22.gif)
 
 
 
